@@ -1,6 +1,5 @@
-# wrapper for vkBeautify for bower
+# bower wrapper for vkBeautify 
 
 https://github.com/vkiryukhin/vkBeautify
 
-hopefully it will be offered from him soon!
 
