@@ -1,5 +1,5 @@
 {
-	"name": "vkBeautify-wrapper",
+	"name": "vkbeautify",
 	"version": "0.0.1",
 	"main": "dist/vkbeautify.0.99.00.beta.js",
 	"ignore": [
